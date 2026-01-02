@@ -63,7 +63,7 @@ export const experiences: ExperienceInterface[] = [
       "Improved lab debugging efficiency through structured troubleshooting methods.",
       "Developed hands-on exercises linking embedded systems and computational modeling.",
     ],
-    skills: ["C", "C++", "Python", "EmbeddedC"],
+    skills: ["C", "C++", "Python", "Embedded C"],
     companyUrl: "https://www.msstate.edu",
     logo: "/experience/bcoe.jpg",
   },
