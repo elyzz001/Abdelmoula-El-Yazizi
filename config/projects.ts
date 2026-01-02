@@ -38,7 +38,7 @@ export const Projects: ProjectInterface[] = [
   shortDescription:
     "End-to-end machine learning pipeline for predicting flight prices using temporal, categorical, and route-based features.",
   githubLink: "https://github.com/elyzz001/ds-projects/tree/main/flight-price-prediction",
-  techStack: ["Python", "Pandas", "Scikit-learn", "NumPy", "Matplotlib", "Seaborn"],
+  techStack: ["Python", "Pandas", "Scikitlearn", "NumPy", "Matplotlib", "Seaborn"],
   startDate: new Date("2025-12-01"),
   endDate: new Date("2025-12-25"),
   companyLogoImg: "/projects/flight_price_prediction/img1.png",
