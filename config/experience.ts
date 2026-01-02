@@ -36,7 +36,7 @@ export const experiences: ExperienceInterface[] = [
     skills: [
       "Python",
       "PyTorch",
-      "Tensorflow",
+      "TensorFlow",
       "Scikitlearn",
       "Numpy",
       "Pandas",
