@@ -86,6 +86,7 @@ export type ValidCategory =
   | "ML/DS"
   | "Data Scientist / Machine Learning Engineer"
   | "NLP"
+  | "Regression"
   | "Classification"
   | "Data Science"
   | "Time Series"
