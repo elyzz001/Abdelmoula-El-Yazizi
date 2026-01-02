@@ -81,9 +81,9 @@ export type ValidCategory =
   | "UI/UX"
   | "Web Dev"
   | "Mobile Dev"
-  | "3D Modeling";
+  | "3D Modeling"
   | "ML/DS"
-  | "Data Scientist / Machine Learning Engineer"
+  | "Data Scientist / Machine Learning Engineer";
 
 export type ValidExpType = "Personal" | "Academic";
 
