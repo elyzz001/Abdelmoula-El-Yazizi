@@ -72,6 +72,7 @@ export type ValidSkills =
   | "Python"
   | "Embedded C"
   | "Optimization"
+  | "Regression"
   ;
 
 export type ValidCategory =
@@ -83,7 +84,22 @@ export type ValidCategory =
   | "Mobile Dev"
   | "3D Modeling"
   | "ML/DS"
-  | "Data Scientist / Machine Learning Engineer";
+  | "Data Scientist / Machine Learning Engineer"
+  | "NLP"
+  | "Classification"
+  | "Data Science"
+  | "Time Series"
+  | "Forecasting"
+  | "Recommendation Systems"
+  | "ML"
+  | "Quantum Computing"
+  | "Generative Models"
+  | "Continual Learning"
+  | "Generative Models"
+  | "Predictive Modeling"
+  | "Decision Trees"
+  | "Computer Vision"
+  |  "Object Detection";
 
 export type ValidExpType = "Personal" | "Academic";
 
