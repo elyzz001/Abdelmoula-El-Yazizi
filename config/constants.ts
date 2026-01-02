@@ -89,6 +89,7 @@ export type ValidSkills =
   | "YOLOv3"
   | "OpenCV"
   | "Computer Vision"
+  | "NLP"
   ;
 
 export type ValidCategory =
