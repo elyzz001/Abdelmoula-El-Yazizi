@@ -100,7 +100,11 @@ export type ValidCategory =
   | "Predictive Modeling"
   | "Decision Trees"
   | "Computer Vision"
-  |  "Object Detection";
+  |  "Object Detection"
+  | "Scikit-learn"
+  | "NumPy"
+  | "Matplotlib"
+  | "Seaborn";
 
 export type ValidExpType = "Personal" | "Academic";
 
