@@ -60,7 +60,19 @@ export type ValidSkills =
   | "FastAPI"
   | "SQL"
   | "NoSQL"
-  | "Framer Motion";
+  | "Framer Motion"
+  | "Scikitlearn"
+  | "Numpy"
+  | "Pandas"
+  | "MLflow"
+  | "Matplotlib"
+  | "MCMC"
+  | "C"
+  | "C++"
+  | "Python"
+  | "Embedded C"
+  | "Optimization"
+  ;
 
 export type ValidCategory =
   | "Full Stack"
