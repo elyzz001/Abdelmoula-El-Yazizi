@@ -73,6 +73,22 @@ export type ValidSkills =
   | "Embedded C"
   | "Optimization"
   | "Regression"
+  | "Seaborn"
+  | "NLTK"
+  | "TF-IDF"
+  | "ML/DS"
+  | "Statsmodels"
+  | "pmdarima"
+  | "Streamlit"
+  | "D-Wave"
+  | "Quantum Annealing"
+  | "ML"
+  | "RBM"
+  | "PyTorch"
+  | "TensorFlow"
+  | "YOLOv3"
+  | "OpenCV"
+  | "Computer Vision"
   ;
 
 export type ValidCategory =

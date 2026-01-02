@@ -38,7 +38,7 @@ export const Projects: ProjectInterface[] = [
   shortDescription:
     "End-to-end machine learning pipeline for predicting flight prices using temporal, categorical, and route-based features.",
   githubLink: "https://github.com/elyzz001/ds-projects/tree/main/flight-price-prediction",
-  techStack: ["Python", "Pandas", "Scikitlearn", "NumPy", "Matplotlib", "Seaborn"],
+  techStack: ["Python", "Pandas", "Scikitlearn", "Numpy", "Matplotlib", "Seaborn"],
   startDate: new Date("2025-12-01"),
   endDate: new Date("2025-12-25"),
   companyLogoImg: "/projects/flight_price_prediction/img1.png",
@@ -91,7 +91,7 @@ descriptionDetails: {
   shortDescription:
     "Developed an NLP-based machine learning model to classify password strength using statistical and semantic features.",
   githubLink: "https://github.com/elyzz001/ds-projects/tree/main/password-strength-prediction",
-  techStack: ["Python", "SQL", "Scikit-learn", "NLTK", "TF-IDF", "Matplotlib"],
+  techStack: ["Python", "SQL", "Scikitlearn", "NLTK", "TF-IDF", "Matplotlib"],
   startDate: new Date("2025-11-15"),
   endDate: new Date("2025-12-01"),
   companyLogoImg: "/projects/password_strength_prediction/img1.png",
@@ -208,7 +208,7 @@ descriptionDetails: {
   techStack: [
     "Python",
     "Pandas",
-    "Scikit-learn",
+    "Scikitlearn",
     "TF-IDF",
     "NLP",
     "Streamlit"
@@ -296,7 +296,7 @@ descriptionDetails: {
     shortDescription:
       "Implemented classical RBMs and baseline ML models for digit classification and feature learning on MNIST dataset.",
     githubLink: "https://github.com/Abdel-ElYazizi/ml-classification",
-    techStack: ["Python", "TensorFlow", "PyTorch", "NumPy", "ML", "RBM"],
+    techStack: ["Python", "TensorFlow", "PyTorch", "Numpy", "ML", "RBM"],
     startDate: new Date("2022-06-01"),
     endDate: new Date("2024-08-01"),
     companyLogoImg: "/projects/ml-classification/img2.png",
@@ -344,7 +344,7 @@ descriptionDetails: {
     shortDescription:
       "Built predictive models for injector spray profiles, analyzing experimental fluid dynamics data to improve accuracy and guide engineering decisions.",
     githubLink: "https://github.com/Abdel-ElYazizi/injector-spray",
-    techStack: ["Python", "Scikit-learn", "Pandas", "Matplotlib", "NumPy", "Regression"],
+    techStack: ["Python", "Scikitlearn", "Pandas", "Matplotlib", "Numpy", "Regression"],
     startDate: new Date("2024-01-01"),
     endDate: new Date("2024-06-01"),
     companyLogoImg: "/projects/injector-spray/img1.png",
