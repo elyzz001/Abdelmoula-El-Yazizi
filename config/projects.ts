@@ -80,6 +80,7 @@ descriptionDetails: {
     "#Outcome",
     "Successfully created a robust flight price prediction model with a well-engineered feature set and an optimized ML pipeline suitable for real-world pricing prediction.",
   ],
+  bullets: [],
   
 },
 },
@@ -238,7 +239,7 @@ descriptionDetails: {
 
     "## Outcome:",
     "Successfully delivered an end-to-end movie recommendation platform combining NLP, multiple recommender strategies, and a production-ready Streamlit web application."    ],
-    bullets: [   ],
+    bullets: [],
   },
 },
 {
